@@ -1,66 +1,42 @@
-# essentials
+# Essentials
 
 ## Project setup
 
-```
-# yarn
-yarn
-
-# npm
-npm install
-
-# pnpm
+``` sh
 pnpm install
+```
 
-# bun
+``` sh
 bun install
 ```
 
 ### Compiles and hot-reloads for development
 
-```
-# yarn
-yarn dev
-
-# npm
-npm run dev
-
-# pnpm
+``` sh
 pnpm dev
+```
 
-# bun
+``` sh
 bun run dev
 ```
 
 ### Compiles and minifies for production
 
-```
-# yarn
-yarn build
-
-# npm
-npm run build
-
-# pnpm
+``` sh
 pnpm build
+```
 
-# bun
+``` sh
 bun run build
 ```
 
 ### Lints and fixes files
 
-```
-# yarn
-yarn lint
-
-# npm
-npm run lint
-
-# pnpm
+``` sh
 pnpm lint
+```
 
-# bun
+``` sh
 bun run lint
 ```
 
